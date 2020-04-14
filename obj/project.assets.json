@@ -7138,11 +7138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\InventoryManagement\\InventoryManagement.csproj",
+      "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\InventoryManagementAPI\\InventoryManagement.csproj",
       "projectName": "InventoryManagement",
-      "projectPath": "C:\\Users\\jacob\\source\\repos\\InventoryManagement\\InventoryManagement.csproj",
+      "projectPath": "C:\\Users\\jacob\\source\\repos\\InventoryManagementAPI\\InventoryManagement.csproj",
       "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacob\\source\\repos\\InventoryManagement\\obj\\",
+      "outputPath": "C:\\Users\\jacob\\source\\repos\\InventoryManagementAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

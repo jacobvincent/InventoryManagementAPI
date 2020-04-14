@@ -93,3 +93,11 @@ C:\Users\jacob\source\repos\InventoryManagement\bin\Debug\netcoreapp3.1\Microsof
 C:\Users\jacob\source\repos\InventoryManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 C:\Users\jacob\source\repos\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\jacob\source\repos\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\InventoryManagementAPI\obj\Debug\netcoreapp3.1\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\InventoryManagementAPI\obj\Debug\netcoreapp3.1\staticwebassets\InventoryManagement.StaticWebAssets.Manifest.cache
+C:\Users\jacob\source\repos\InventoryManagementAPI\obj\Debug\netcoreapp3.1\staticwebassets\InventoryManagement.StaticWebAssets.xml
+C:\Users\jacob\source\repos\InventoryManagementAPI\obj\Debug\netcoreapp3.1\InventoryManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacob\source\repos\InventoryManagementAPI\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\InventoryManagementAPI\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfo.cs
+C:\Users\jacob\source\repos\InventoryManagementAPI\obj\Debug\netcoreapp3.1\InventoryManagement.dll
+C:\Users\jacob\source\repos\InventoryManagementAPI\obj\Debug\netcoreapp3.1\InventoryManagement.pdb
